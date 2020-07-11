@@ -11,6 +11,7 @@
 [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&link=https://github.com/baristure/)](https://github.com/baristure/)
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-801010?style=flat-square&logo=codeigniter&link=https://github.com/baristure/)](https://github.com/baristure/)
 [![CakePHP](https://img.shields.io/badge/-CakePHP-801010?style=flat-square&logo=cakephp&link=https://github.com/baristure/)](https://github.com/baristure/)
+[![D3.js](https://img.shields.io/badge/-D3.js-663300?style=flat-square&logo=d3.js&link=https://github.com/baristure/)](https://github.com/baristure/)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/baristure/)](https://github.com/baristure/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/baristure/)](https://github.com/baristure/)
