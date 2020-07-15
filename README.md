@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+[![HitCount](http://hits.dwyl.com/baristure/baristure.svg)](http://hits.dwyl.com/baristure/baristure)
 # :man_technologist: My Name is Barış Türe, I am a Full Stack Developer.
 
 ## Knowledge
