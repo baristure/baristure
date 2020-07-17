@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-[![HitCount](http://hits.dwyl.com/baristure@hotmailcom/baristure/readmemd.svg)](http://hits.dwyl.com/baristure@hotmailcom/baristure/readmemd)
+[![Visitors](http://hits.dwyl.com/baristure@hotmailcom/baristure/READMEmd.svg)](http://hits.dwyl.com/baristure@hotmailcom/baristure/READMEmd)
 
 
 # :man_technologist: My Name is Barış Türe, I am a Full Stack Developer.
