@@ -1,10 +1,9 @@
 ### Hi there 👋 
-
-[![HitCount](http://hits.dwyl.com/baristure/baristure/READMEmd.svg)](http://hits.dwyl.com/baristure/baristure/READMEmd)
+  ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/baristure/readme)
 
 
 # :man_technologist: My Name is Barış Türe, I am a Full Stack Developer.
-
+![Barış's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baristure&show_icons=true)
 ## Knowledge
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/baristure/)](https://github.com/baristure/)
@@ -21,6 +20,13 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/baristure/)](https://github.com/baristure/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&link=https://github.com/baristure/)](https://github.com/baristure/)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&link=https://github.com/baristure/)](https://github.com/baristure/)
+
+
+## Contact Me 📫
+
+You can find and get touch with me on these accounts!
+
+[![Linkedin Badge](https://img.shields.io/badge/baristure-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baristure/)
 
 
 <!--
