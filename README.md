@@ -1,8 +1,5 @@
-### Hi there 👋 
-  ![visitor count](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/baristure/readme)
 
-
-# :man_technologist: Hey Stranger! I'm Barış and a full stack developer with like to follow different technologies. I am someone who has adopted the principle of self-renewal and continuous improvement.I like to work on hard challenges, think, and solve these problems in my mind. Also, I can code these things. Hey! This is why I'm working on software development.
+#### :man_technologist: Hey Stranger👋 I'm Barış and a full stack developer with like to follow different technologies. I am someone who has adopted the principle of self-renewal and continuous improvement. 
 
 ## Knowledge
 
@@ -27,6 +24,9 @@
 You can find and get touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/baristure-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baristure/)
+  
+![visitor count](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/baristure/readme)
+
 
 
 ![Barış's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baristure&show_icons=true)
