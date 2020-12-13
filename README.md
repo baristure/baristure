@@ -37,9 +37,9 @@ You can find and get touch with me on these accounts!
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baristure&show_icons=true&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baristure&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baristure&hide=php&layout=compact&theme=merko)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baristure&hide=php&layout=compact&theme=dark)
 
 <!--
 **baristure/baristure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
