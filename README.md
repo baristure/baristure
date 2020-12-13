@@ -31,12 +31,15 @@
 You can find and get touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/baristure-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baristure/)
-  
+[![Medium Badge](https://img.shields.io/badge/baristure-follow%20on%20medium-green?style=for-the-badge&logo=medium)](https://medium.com/@baris.ture)  
+
 ![visitor count](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/baristure/readme)
 
 
 
-![Barış's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baristure&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baristure&show_icons=true&theme=merko)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baristure&hide=php&layout=compact&theme=merko)
 
 <!--
 **baristure/baristure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
