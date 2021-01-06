@@ -1,4 +1,4 @@
-
+![Baris Ture](https://raw.githubusercontent.com/J2TEAM/J2TEAM/main/dino.gif)
 #### :man_technologist: Hey Stranger👋 I'm Barış and a full stack developer with like to follow different technologies. I am someone who has adopted the principle of self-renewal and continuous improvement. 
 
 ## Knowledge
