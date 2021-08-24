@@ -7,12 +7,11 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/baristure/)](https://github.com/baristure/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/baristure/)](https://github.com/baristure/)
 
-[![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js&link=https://github.com/baristure/)](https://github.com/baristure/) 
+[![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js&link=https://github.com/baristure/)](https://github.com/baristure/)
+[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js&link=https://github.com/baristure/)](https://github.com/baristure/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/baristure/)](https://github.com/baristure/)
 [![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux&link=https://github.com/baristure/)](https://github.com/baristure/)
 [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&link=https://github.com/baristure/)](https://github.com/baristure/)
-[![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-801010?style=flat-square&logo=codeigniter&link=https://github.com/baristure/)](https://github.com/baristure/)
-[![CakePHP](https://img.shields.io/badge/-CakePHP-801010?style=flat-square&logo=cakephp&link=https://github.com/baristure/)](https://github.com/baristure/)
 [![D3.js](https://img.shields.io/badge/-D3.js-663300?style=flat-square&logo=d3.js&link=https://github.com/baristure/)](https://github.com/baristure/)
 
 
