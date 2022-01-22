@@ -29,18 +29,15 @@
 <!--[![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&link=https://github.com/baristure/)](https://github.com/baristure/) -->
 <!--[![.C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=c#&link=https://github.com/baristure/)](https://github.com/baristure/) -->
 
-## Contact Me 📫
 
-You can find and get touch with me on these accounts!
-
-
-![visitor count](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/baristure/readme)
 
 
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baristure&show_icons=true&theme=dark)-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baristure&hide=php&layout=compact&theme=dark)
+
+![visitor count](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/baristure/readme)
 
 <!--
 **baristure/baristure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
