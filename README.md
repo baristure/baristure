@@ -35,7 +35,7 @@
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baristure&show_icons=true&theme=dark)-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baristure&hide=php&layout=compact&theme=dark)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baristure&hide=php&layout=compact&theme=dark) -->
 
 ![visitor count](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/baristure/readme)
 
